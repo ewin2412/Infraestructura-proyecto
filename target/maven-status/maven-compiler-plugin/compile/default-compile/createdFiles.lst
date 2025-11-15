@@ -1,0 +1,5 @@
+com\example\tienda\TiendaRopaBasicApplication.class
+com\example\tienda\service\CartService.class
+com\example\tienda\model\Product.class
+com\example\tienda\controller\StoreController.class
+com\example\tienda\model\CartItem.class
